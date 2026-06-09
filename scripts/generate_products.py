@@ -2,6 +2,9 @@
 import json, os, re, sys
 from pathlib import Path
 
+# Only scan these manufacturer directories (others not committed to repo)
+ALLOWED_DIRS = {'nilex', 'titan', 'us-fabrics', 'propex', 'skaps'}
+
 PDFS_ROOT = Path('/home/kevin/geotextile-repo/pdfs')
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / 'data'
@@ -324,12 +327,17 @@ def main():
 
     seen = set()
     products = []
-    all_pdf_files = sorted(PDFS_ROOT.rglob('*.pdf'))
+    # Only scan allowed manufacturer directories
+    pdf_files = []
+    for d in ALLOWED_DIRS:
+        dir_path = PDFS_ROOT / d
+        if dir_path.is_dir():
+            pdf_files.extend(sorted(dir_path.rglob('*.pdf')))
     # Filter out brochure/catalog PDFs that are not individual product datasheets
-    pdf_files = [p for p in all_pdf_files if not any(
+    pdf_files = [p for p in pdf_files if not any(
         kw in p.stem.lower() for kw in ['catalog', 'brochure', 'cross-reference', 'transparency_in']
     )]
-    print(f"Found {len(all_pdf_files)} PDF files ({len(pdf_files)} product datasheets)")
+    print(f"Found {len(pdf_files)} product PDFs in allowed directories: {', '.join(sorted(ALLOWED_DIRS))}")
 
     matched_count = 0
     unmatched = []
