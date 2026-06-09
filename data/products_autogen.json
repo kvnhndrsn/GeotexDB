@@ -1,0 +1,3900 @@
+{
+  "products": [
+    {
+      "code": "1000HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-1000HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-100HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100HS-C",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-100HS-C-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-100HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100PET",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-100PET-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-105HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "10HD",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/Carthage-10HD-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1200HSEDatasheet",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-1200HSEDatasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "120HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-120HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "120HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-120HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "12HD",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/Carthage-12HD-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "15",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/Carthage-15-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "150PET",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-150PET-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1600HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-1600HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "160HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-160HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "160HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-160HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2000HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-2000HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200PET",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-200PET-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "22",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-22-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "220MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-220MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2400HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-2400HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "270MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-270MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2800HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-2800HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "30",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/Carthage-30-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "300MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-300MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "300PET",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-300PET-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "30HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-30HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "3200HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-3200HSE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "35HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-35HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "35HS-Orange-Demarcation",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-35HS-Orange-Demarcation.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "370MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-370MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "375MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-375MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "38AO",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-38AO-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "3MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/Carthage-3MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-40HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40HS-C",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-40HS-C-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-40HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "42AO",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-42AO-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "45HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-45HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "46AO",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-46AO-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4HD",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/Carthage-4HD-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-55-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "570MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-570MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "6",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/Carthage-6-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-60-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "600HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-600HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60AO",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-60AO-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-60HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60HS-Orange-Demarcation",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-60HS-Orange-Demarcation.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-60HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "66",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-66-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "665MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-665MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "70HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-70HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "770MF",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-770MF-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "800HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-800HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80HS",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-80HS-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80HS-C",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-80HS-C-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80HS-Orange-Demarcation",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-80HS-Orange-Demarcation.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80HSE",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/carthage/FX-80HSE-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N03",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N03-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N04",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N04-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N05",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N05-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N06",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N06-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N07",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N07-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N08",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N08-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N10",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N10-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N12",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N12-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N14E",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N14E-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "N16",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/hanes/TerraTex-N16-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Geotextiles_LP35-LP16",
+      "manufacturer": "Layfield",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/layfield/Nonwoven_Geotextiles_LP35-LP16.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "351",
+      "manufacturer": "Propex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/propex/GEOTEX_351.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "601",
+      "manufacturer": "Propex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/propex/GEOTEX_601.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GC-140",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GC-140.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GC140",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GC140.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GE-112",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GE-112.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GE-140",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GE-140.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GE140",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GE140.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-110",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-110.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-112",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-112.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-116",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-116.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-131",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-131.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-142",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-142.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-150",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-150.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-160",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-160.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT-170",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT-170.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT110",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT110.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT112",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT112.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT116",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT116.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT131",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT131.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT142",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT142.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT150",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT150.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT160",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT160.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GT170",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GT170.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "M-220",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/M-220.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "M404",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/M404.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "M440",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/M440.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "PADOT",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/GE-112_PADOT.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2002w",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/2002w.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2004w",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/2004w.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2006w",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/2006w.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "250-micron",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/250-micron.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "microfab",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/microfab.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-1600.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-110",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-110.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-170",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-170.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-200",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-200.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-200b",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-200b.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-300",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-300.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-400",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-400.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-70",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-70.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-80",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-80.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-800",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-800.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-90",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-90.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-f",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-f.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-mp",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-mp.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "tx-r",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/soleno/tx-r.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1100N",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_1100N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1100NC",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_1100NC.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1100NPA",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_1100NPA.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1120N",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_1120N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1160N",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_1160N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1200NPA",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_1200NPA.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "140N",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_140N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "140NC",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_140NC.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "140NL",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_140NL.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "140NLO",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_140NLO.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "160N",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_160N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "170N",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_170N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "180N",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_180N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "180NC",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_180NC.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1200R",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_1200R.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200R",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_200R.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "270R",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_270R.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "360R",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_360R.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "420R",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_420R.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "800R",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_800R.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Terrafix",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_2415.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "120EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-120EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "125EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-125EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "130EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-130EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "140EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-140EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "145EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-145EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "150EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-150EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "160EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-160EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "180EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-180EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "250EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-250EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "275EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-275EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "350EX",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-350EX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1.4_CC_Data_SheetCDN",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/1.4_CC_Data_SheetCDN.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1.4_CCDataSheetUSA",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/1.4_CCDataSheetUSA.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "10900_C_English_Canada_BayFilter_Sheet_10_24",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/10900_C_English_Canada_BayFilter_Sheet_10_24_HR.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "11133_MC_7200_Sell_Sheet_9_24",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/11133_MC_7200_Sell_Sheet_9_24.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "16_July",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/TE_16_July_2025.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/RPP_36_45_60_2.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40HD_SSTDST",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/TITAN_40HD_SSTDST_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "6_NonWoven_Geotextile_Jan2024",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/TE_6_NonWoven_Geotextile_Jan2024.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "BD",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/TE_C32_BD.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Concrete_Aug2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/Cable_Concrete_Aug2023.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Dam_Triple_Dam_Aug2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/Double_Dam_Triple_Dam_Aug2023.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Env._NonWoven_Geotextile_Jan2024",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/TE_E10_Env._NonWoven_Geotextile_Jan2024.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "ES1",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/COLETANCHE_ES1_Technical_Specs.pdf.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "ES2",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/COLETANCHE_ES2_Technical_Specs.pdf.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "ES3",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/COLETANCHE_ES3_Technical_Specs.pdf.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "ES4",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/titan/COLETANCHE_ES4_Technical_Specs.pdf.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/pg1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-100nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-105nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "120nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-120nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "135nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-135nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "160nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-160nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "165nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-165nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "180nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-180nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/pg2.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-200.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-200nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "205nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-205nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "225nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-225nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "230",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-230.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "230c",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-230c.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "250",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-250.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "250nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-250nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "270",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-270.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "270nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-270nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "3",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/pg3.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "300nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-300nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "315",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-315.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "330nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-330nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "330nwe-a",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-330nwe-a.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "350",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-350.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "380nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-380nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "390nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-390nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "425nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-425nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "425nwe-a",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-425nwe-a.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "450nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-450nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4800-30",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-4800-30.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "500nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-500nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "550nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-550nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "600nwe",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-600nwe.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "640",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-640.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "670",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-670.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-80nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "830",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-830.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "840",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-840.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "90nw",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-90nw.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "us",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/us-fabrics/us-1540.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1000N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1000N-CA.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1000NE",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1000NE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1200N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1200N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1200NE",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1200NE-PA.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1210DT",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1210DT.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1210DT-3606125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1210DT-3606125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1210DT-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1210DT-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1210DT-3608125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1210DT-3608125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1210DT-360815",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1210DT-360815.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1210DT-3610125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1210DT-3610125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1210DT-361015",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1210DT-361015.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1211-360515",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211-360515.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1211-3606125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211-3606125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1211-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1211-3608125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211-3608125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1211-360815",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211-360815.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1211-3610125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211-3610125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1211-361015",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211-361015.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1215DT",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1215DT.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1216-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1216-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1217DT",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1217DT.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1600N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1600N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1600NE",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1600NE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1_DOT_FTB",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_Type_1_DOT_FTB.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200W-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_200W-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200W-3606175",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_200W-3606175.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2020HDX",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2020HDX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2030HDX",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2030HDX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2050HDX",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2050HDX.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2098-36042-M",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2098-36042-M.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2098R",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2098R.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2105FF",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2105FF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2_DOT_FTB",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_Type_2_DOT_FTB.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2X2HF",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2X2HF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2x_DOT_FTB",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_Type_2x_DOT_FTB.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "300NP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_300NP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "310N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_310N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "350N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_350N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "3_DOT_FTB",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_Type_3_DOT_FTB.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "3x3HF",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_3x3HF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "400N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_400N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "400NP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_400NP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "450N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_450N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "465",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_465.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4872T-Tan",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_4872T-Tan.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4x4",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_4x4.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4x6",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_4x6.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "500N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_500N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "600N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_600N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "600NE",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_600NE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "6X6",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_6X6.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "6X9",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_6X9.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "700N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_700N.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "700NE",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_700NE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "800N",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_800N-CA.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "800NE",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_800NE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "C2",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_C2.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "PP-10",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_PP-10.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "PRODUCT_LINE",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_LOG_PRODUCT_LINE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "S1",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_S1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "S1BD",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_S1BD.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "S1RD",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_S1RD.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "S2",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_S2.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "S2BD",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_S2BD.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "S2RD",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_S2RD.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Sleeve",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/Grate_Sleeve.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "STB",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_STB.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "System",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_C_System.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX1800",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX1800.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX200",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX200.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX2000",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX2000.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX300",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX300.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX3500",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX3500.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX500",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX500.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX600",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX600.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX800",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX800.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "UX900",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_UX900.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "V23",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_V23.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "V24",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_V24.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "WINFAB",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/winfab/WINFAB_1211.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HPG-HM28",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/hanes/TerraTex-HPG-HM28-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HPG-HM38",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/hanes/TerraTex-HPG-HM38-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HPG-HM58",
+      "manufacturer": "Hanes",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/hanes/TerraTex-HPG-HM58-product-data-sheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Geotextiles_LP200-LP315",
+      "manufacturer": "Layfield",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/layfield/Woven_Geotextiles_LP200-LP315.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Woven_Geotextile_GT500_GT1000M",
+      "manufacturer": "Layfield",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/layfield/Geotube_Woven_Geotextile_GT500_GT1000M.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SW-200",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/skaps/SW-200.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SW-315",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/skaps/SW-315.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SW200",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/skaps/SW200.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SW315",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/skaps/SW315.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "W100",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/skaps/W100.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "W250",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/skaps/W250.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "W270",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/skaps/W270.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HP270",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_HP270.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HP370",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_HP370.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HP570",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_HP570.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HP665",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_HP665.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HP770",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_HP770.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "HP770PET",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/solmax/MIRAFI_HP770PET.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200W",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_200W.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "400W",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/terrafix/Terrafix_400W.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF200",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF200.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF250",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF250.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF270",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF270.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF300",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF300.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF320",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF320.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF350",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF350.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF370",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF370.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "GTF400E",
+      "manufacturer": "Thrace-LINQ",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/thrace-linq/Thrace-LINQ_DataSheet-GTF400E.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100gc",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/us-fabrics/us-100gc.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100p",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/us-fabrics/us-100p.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "120p",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/us-fabrics/us-120p.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "150p",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/us-fabrics/us-150p.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "90p",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/us-fabrics/us-90p.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "synteen-sc46k",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/us-fabrics/synteen-sc46k.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "200W",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_200W.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "250W",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_250W.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2700HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_2700HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "270HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_270HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "270W",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_270W.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "300HTM",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_300HTM.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "315W",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_315W.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "3300HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_3300HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "350W",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_350W.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "370HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_370HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "400HTM",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_400HTM.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4800HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_4800HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "570HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_570HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "600HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_600HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "600HTM",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_600HTM.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "770HP",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Woven",
+      "pdfPath": "pdfs/winfab/WINFAB_770HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "11-Type",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/carthage/GBX-11-Type-1-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "12-Type",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/carthage/GBX-12-Type-2-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "13",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/carthage/GBX-13-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "41",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/carthage/GBX-41-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "bx",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/soleno/bx-2000.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "RS380i",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/solmax/MIRAFI_RS380i.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "RS580i",
+      "manufacturer": "Solmax",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/solmax/MIRAFI_RS580i.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_100",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_100_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_120",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_120_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_150",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/ConForce_Grid_150.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_200",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_200_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_250",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_250_2.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_30",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Titan_Rail_Grid_30.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_40",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Titan_Rail_Grid_40.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_400",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_400_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_50",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_50_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_60",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_60_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Grid_80",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Pyramid_Grid_80_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Shield_Grid_Rib24",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/Mine_Shield_Grid_Rib24.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "ht300",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/us-fabrics/us-ht300.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "ht400",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/us-fabrics/us-ht400.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "ht500",
+      "manufacturer": "US Fabrics",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/us-fabrics/us-ht500.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "BX11",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/winfab/WINFAB_BX11.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "BX12",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/winfab/WINFAB_BX12.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "DIAMONDBACK",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/winfab/DIAMONDBACK_2018.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100mil_HDPE_Geomembrane",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/100mil_HDPE_Geomembrane.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_1",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/100mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_1_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_SSTDST",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/100mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_SSTDST.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100mil_SST_DST_August2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/TITAN_100mil_SST_DST_August2023_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "30mil_Reinforced_Geomembrane",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/XR_5_30mil_Reinforced_Geomembrane.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "30mil_WOVEN_COATED_GEOMEMBRANE",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/30mil_WOVEN_COATED_GEOMEMBRANE_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40_100_mil_LLDPE_TEXTURED_August2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/TITAN_40_100_mil_LLDPE_TEXTURED_August2023.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40mil_HDPE_Geomembrane",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/40mil_HDPE_Geomembrane_.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40mil_HDPE_LEAK_LOCATION_GEOMEMBRANE",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/40mil_HDPE_LEAK_LOCATION_GEOMEMBRANE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_SSTDST",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/40mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_SSTDST.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "40mil_Reinforced_Geomembrane",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/XR_5_40mil_Reinforced_Geomembrane.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60mil_HDPE_Geomembrane",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/60mil_HDPE_Geomembrane_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60mil_HDPE_LEAK_LOCATION_GEOMEMBRANE",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/60mil_HDPE_LEAK_LOCATION_GEOMEMBRANE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_SSTDST",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/60mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_SSTDST_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "60mil_SST_DST_August2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/TITAN_60mil_SST_DST_August2023_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80mil_HDPE_Geomembrane",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/80mil_HDPE_Geomembrane_.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80mil_HDPE_LEAK_LOCATION_GEOMEMBRANE",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/80mil_HDPE_LEAK_LOCATION_GEOMEMBRANE.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80mil_HDPE_SSTDST",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/80mil_HDPE_SSTDST_3.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "80mil_SST_DST_August2025",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geomembrane",
+      "pdfPath": "pdfs/titan/TITAN_80mil_SST_DST_August2025.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1600E",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/terrafix/Terrafix_1600E.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "800E",
+      "manufacturer": "Terrafix",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/terrafix/Terrafix_800E.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "75",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/titan/PYRAMAT_75_PDS.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "75_Spec_2025",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/titan/Armormax_75_Spec_2025_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Pro_Spec_Final",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/titan/ShoreFlex_Pro_Spec_02_23_21_Final_6.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Spec_Final",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/titan/ShoreFlex_Spec_02_23_21_Final_8.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "TRM",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/titan/TE_P42_TRM_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Ultra_UV_Pro_Spec_Fin",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/titan/ShoreFlex_Ultra_UV_Pro_Spec_02_23_21_Fin_3.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Ultra_UV_Spec_Final.",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/titan/ShoreFlex_Ultra_UV_Spec_02_23_21_Final._3.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "LOG",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/winfab/WINFAB_COIR_LOG.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Mat_400",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/winfab/WINFAB_Coir_Mat_400.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Mat_700",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/winfab/WINFAB_Coir_Mat_700.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Mat_900",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/winfab/WINFAB_Coir_Mat_900.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Mesh",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "TRM",
+      "pdfPath": "pdfs/winfab/WINFAB_Jute_Mesh.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "drainatex",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/soleno/drainatex.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "draincotex",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/soleno/draincotex.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "epurtex",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/soleno/epurtex.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "hibertex",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/soleno/hibertex.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "routex-ii",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/soleno/routex-ii.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "routex-iii-iv",
+      "manufacturer": "Soleno",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/soleno/routex-iii-iv.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "10892_FlexStorm_Pure_04_24",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/titan/10892_FlexStorm_Pure_04_24_HR.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "12in_Multi_Flow_Drain_Pipe_March2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/titan/12in_Multi_Flow_Drain_Pipe_March2023.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "18in_Multi_Flow_Pipe_Drain_March2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/titan/18in_Multi_Flow_Pipe_Drain_March2023.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "6in_Multi_Flow_Drain_Pipe_March2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/titan/6in_Multi_Flow_Drain_Pipe_March2023_1.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Flow_Technical_Properties_March2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/titan/Multi_Flow_Technical_Properties_March2023.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Module_20_Series",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/titan/StormTank_Module_20_Series.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Module_25_Series",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Drainage",
+      "pdfPath": "pdfs/titan/StormTank_Module_25_Series.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SF110",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/carthage/SF110-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SF20",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/carthage/SF20-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SF35",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/carthage/SF35-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SF55",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/carthage/SF55-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SF65",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/carthage/SF65-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SF80",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/carthage/SF80-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SF90",
+      "manufacturer": "Carthage",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/carthage/SF90-Datasheet.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2130_Silt_Fence",
+      "manufacturer": "Propex",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/propex/GEOTEX_2130_Silt_Fence.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Turbidity_Curtain_Aug2023",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/titan/TE_W315_Turbidity_Curtain_Aug2023.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-2406125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-2406125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-3606125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-3606125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-3608125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-3608125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-360815",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-360815.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-3610125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-3610125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-361015",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-361015.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF-42WW36x4x4",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF-42WW36x4x4.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF_Blue",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF_Blue.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF_Green",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF_Green.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SF_Orange",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SF_Orange.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT-36-08-15-L",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT-36-08-15-L.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT-3606125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT-3606125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT-3608125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT-3608125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT-360815",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT-360815.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT-3610125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT-3610125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "100SFDT-361015",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_100SFDT-361015.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3604125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3604125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3605125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3605125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-360515",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-360515.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3606125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3606125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-360615-36L",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-360615-36L.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-360615-42L",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-360615-42L.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-360615WW364X4-14G",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-360615WW364X4-14G.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3606175-36L",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3606175-36L.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3606175-60",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3606175-60.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3608125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3608125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-360815",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-360815.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3610125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3610125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-361015",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-361015.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-361015WW36X4X4-14G",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-361015WW36X4X4-14G.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-3614GA-4X4",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-3614GA-4X4.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-36WW36X4X4-14G",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-36WW36X4X4-14G.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-42WW36X4X4-14G",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-42WW36X4X4-14G.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-4814GA",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-4814GA.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-4814GA-2x4",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-4814GA-2x4.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-4814GA-32-2x4",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-4814GA-32-2x4.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF-48WW36X2X4-14Ga",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF-48WW36X2X4-14Ga.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "105SF_Orange",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_105SF_Orange.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-2410125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-2410125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-3605125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-3605125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-3606125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-3606125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-3608125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-3608125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-360815",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-360815.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-3610125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-3610125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-361015",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-361015.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "55SF-36WW24x4x4-14G",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_55SF-36WW24x4x4-14G.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-240615L",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-240615L.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-3606125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-3606125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-360615",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-360615.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-360615-36L",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-360615-36L.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-360615L",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-360615L.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-3608125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-3608125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-360815",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-360815.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-3610125",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-3610125.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-361015",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-361015.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-36FF532-12-16",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-36FF532-12-16.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-36FF632",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-36FF632.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-36WW24X4X4-14G",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-36WW24X4X4-14G.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF-36WW36X4X4-14G",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF-36WW36X4X4-14G.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "77SF_Orange",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Silt Fence",
+      "pdfPath": "pdfs/winfab/WINFAB_77SF_Orange.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "SOCKS",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Filter Sock",
+      "pdfPath": "pdfs/winfab/WINFAB_FILTER_SOCKS.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "WATTLES",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Wattle",
+      "pdfPath": "pdfs/winfab/WINFAB_STRAW_WATTLES.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Bags",
+      "manufacturer": "Winfab",
+      "description": "",
+      "type": "Bag",
+      "pdfPath": "pdfs/winfab/WINFAB_Dewatering_Bags.pdf",
+      "equivalents": []
+    }
+  ]
+}

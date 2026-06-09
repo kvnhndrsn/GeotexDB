@@ -1,0 +1,20 @@
+{
+  "name": "geotexdb",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Geotextile cross-reference search",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js --dev",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "fuse.js": "^7.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "esbuild": "^0.25.2",
+    "typescript": "^6.0.3"
+  }
+}
