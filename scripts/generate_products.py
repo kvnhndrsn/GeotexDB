@@ -5,8 +5,8 @@ from pathlib import Path
 # Only scan these manufacturer directories (others not committed to repo)
 ALLOWED_DIRS = {'nilex', 'titan', 'us-fabrics', 'propex', 'skaps'}
 
-PDFS_ROOT = Path('/home/kevin/geotextile-repo/pdfs')
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PDFS_ROOT = PROJECT_ROOT / 'pdfs'
 DATA_DIR = PROJECT_ROOT / 'data'
 EXISTING_JSON = DATA_DIR / 'products.json'
 OUTPUT_JSON = DATA_DIR / 'products.json'

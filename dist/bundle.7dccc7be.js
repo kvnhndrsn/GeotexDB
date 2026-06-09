@@ -1,6 +1,22 @@
 window.__PRODUCTS_DATA__={
   "products": [
     {
+      "code": "1198",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/1198.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "1199",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/1199.pdf",
+      "equivalents": []
+    },
+    {
       "code": "2002",
       "manufacturer": "Nilex",
       "description": "",
@@ -8,6 +24,78 @@ window.__PRODUCTS_DATA__={
       "pdfPath": "pdfs/nilex/2002.pdf",
       "equivalents": [],
       "title": ""
+    },
+    {
+      "code": "2004",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/2004.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2006",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/2006.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2016",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/2016.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2019",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/2019.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "2044HF",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/2044HF.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "270HP",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/270HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "300HTM",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/300HTM.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "370HP",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/370HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "400HTM",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/400HTM.pdf",
+      "equivalents": []
     },
     {
       "code": "4504",
@@ -19,6 +107,14 @@ window.__PRODUCTS_DATA__={
       "title": ""
     },
     {
+      "code": "4506E",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4506E.pdf",
+      "equivalents": []
+    },
+    {
       "code": "4508E",
       "manufacturer": "Nilex",
       "description": "",
@@ -28,13 +124,125 @@ window.__PRODUCTS_DATA__={
       "title": ""
     },
     {
+      "code": "4510",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4510.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4510E",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4510E.pdf",
+      "equivalents": []
+    },
+    {
       "code": "4512E",
       "manufacturer": "Nilex",
       "description": "",
       "type": "Non-woven",
-      "pdfPath": "pdfs/nilex/4512E.pdf",
+      "pdfPath": "pdfs/nilex/4512.pdf",
       "equivalents": [],
       "title": ""
+    },
+    {
+      "code": "4516",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4516.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4516E",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4516E.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4535",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4535.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4545",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4545.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4546",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4546.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4547",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4547.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4551",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4551.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "4552",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/4552.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "600HTM",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/600HTM.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "770HP",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/770HP.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "770HTM",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/770HTM.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "Monofilament",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/nilex/Nilex_Monofilament.pdf",
+      "equivalents": []
     },
     {
       "code": "102F",
@@ -269,6 +477,14 @@ window.__PRODUCTS_DATA__={
       "pdfPath": "pdfs/propex/Reflectex_1341.pdf",
       "equivalents": [],
       "title": ""
+    },
+    {
+      "code": "Comparison-Chart-GE-Products",
+      "manufacturer": "SKAPS",
+      "description": "",
+      "type": "Non-woven",
+      "pdfPath": "pdfs/skaps/Comparison-Chart-GE-Products.pdf",
+      "equivalents": []
     },
     {
       "code": "GC-140",
@@ -1098,6 +1314,22 @@ window.__PRODUCTS_DATA__={
       "title": ""
     },
     {
+      "code": "EasyGrid 3-150GC-BX-Geogrid",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/nilex/EasyGrid 3-150GC-BX-Geogrid.pdf",
+      "equivalents": []
+    },
+    {
+      "code": "EasyGrid 4-150GC-BX-Geogrid",
+      "manufacturer": "Nilex",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/nilex/EasyGrid 4-150GC-BX-Geogrid.pdf",
+      "equivalents": []
+    },
+    {
       "code": "Armormax",
       "manufacturer": "Titan Environmental",
       "description": "",
@@ -1105,6 +1337,14 @@ window.__PRODUCTS_DATA__={
       "pdfPath": "pdfs/titan/Armormax.pdf",
       "equivalents": [],
       "title": ""
+    },
+    {
+      "code": "BX20PP",
+      "manufacturer": "Titan Environmental",
+      "description": "",
+      "type": "Geogrid",
+      "pdfPath": "pdfs/titan/TE-BX20PP.pdf",
+      "equivalents": []
     },
     {
       "code": "Grid_100",
@@ -1252,15 +1492,6 @@ window.__PRODUCTS_DATA__={
       "equivalents": []
     },
     {
-      "code": "Road_Grid_10",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geogrid",
-      "pdfPath": "pdfs/titan/Road_Grid_10.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
       "code": "Road_Grid_10C",
       "manufacturer": "Titan Environmental",
       "description": "",
@@ -1279,15 +1510,6 @@ window.__PRODUCTS_DATA__={
       "title": ""
     },
     {
-      "code": "Road_Grid_20",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geogrid",
-      "pdfPath": "pdfs/titan/Road_Grid_20.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
       "code": "Swamp_Grid_30",
       "manufacturer": "Titan Environmental",
       "description": "",
@@ -1302,69 +1524,6 @@ window.__PRODUCTS_DATA__={
       "description": "",
       "type": "Geogrid",
       "pdfPath": "pdfs/titan/WickGrid.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
-      "code": "100mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_1",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geomembrane",
-      "pdfPath": "pdfs/titan/100mil_HDPE_LEAK_LOCATION_GEOMEMBRANE_1.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
-      "code": "30mil_Reinforced_Geomembrane",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geomembrane",
-      "pdfPath": "pdfs/titan/30mil_Reinforced_Geomembrane.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
-      "code": "40_100_mil_LLDPE_TEXTURED_August2023",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geomembrane",
-      "pdfPath": "pdfs/titan/40_100_mil_LLDPE_TEXTURED_August2023.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
-      "code": "40mil_HDPE_LEAK_LOCATION_GEOMEMBRANE",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geomembrane",
-      "pdfPath": "pdfs/titan/40mil_HDPE_LEAK_LOCATION_GEOMEMBRANE.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
-      "code": "40mil_Reinforced_Geomembrane",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geomembrane",
-      "pdfPath": "pdfs/titan/40mil_Reinforced_Geomembrane.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
-      "code": "60mil_HDPE_LEAK_LOCATION_GEOMEMBRANE",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geomembrane",
-      "pdfPath": "pdfs/titan/60mil_HDPE_LEAK_LOCATION_GEOMEMBRANE.pdf",
-      "equivalents": [],
-      "title": ""
-    },
-    {
-      "code": "80mil_HDPE_LEAK_LOCATION_GEOMEMBRANE",
-      "manufacturer": "Titan Environmental",
-      "description": "",
-      "type": "Geomembrane",
-      "pdfPath": "pdfs/titan/80mil_HDPE_LEAK_LOCATION_GEOMEMBRANE.pdf",
       "equivalents": [],
       "title": ""
     },
