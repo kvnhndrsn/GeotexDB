@@ -23,7 +23,7 @@ const pdfOpenBtn = document.getElementById('pdfOpenBtn') as HTMLButtonElement
 const pdfNavSection = document.getElementById('pdfNavSection') as HTMLDivElement
 
 const SUPABASE_BASE = 'https://ebcfmvifwkzfblmwgwbu.supabase.co/storage/v1/object/public/'
-const SUPABASE_MFRS = new Set(['SKAPS'])
+const SUPABASE_MFRS = new Set(['SKAPS', 'US Fabrics', 'Nilex', 'Propex'])
 
 function pdfUrl(product: Product): string {
     if (product.pdfPath && SUPABASE_MFRS.has(product.manufacturer)) {
