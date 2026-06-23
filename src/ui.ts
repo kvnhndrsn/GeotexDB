@@ -22,6 +22,16 @@ const pdfDownloadBtn = document.getElementById('pdfDownloadBtn') as HTMLButtonEl
 const pdfOpenBtn = document.getElementById('pdfOpenBtn') as HTMLButtonElement
 const pdfNavSection = document.getElementById('pdfNavSection') as HTMLDivElement
 
+const SUPABASE_BASE = 'https://ebcfmvifwkzfblmwgwbu.supabase.co/storage/v1/object/public/'
+const SUPABASE_MFRS = new Set(['SKAPS'])
+
+function pdfUrl(product: Product): string {
+    if (product.pdfPath && SUPABASE_MFRS.has(product.manufacturer)) {
+        return SUPABASE_BASE + product.pdfPath
+    }
+    return product.pdfPath ?? ''
+}
+
 let allProducts: Product[] = []
 let filteredProducts: Product[] = []
 let selectedProduct: Product | null = null
@@ -433,7 +443,7 @@ function selectProduct(product: Product) {
     selectedProduct = product
     renderSidebarList(filteredProducts)
 
-    if (product.pdfPath) {
+    if (pdfUrl(product)) {
         loadPDF(product)
     } else {
         showPDFEmpty(`${product.code} — no datasheet available`)
@@ -444,8 +454,8 @@ function loadPDF(product: Product) {
     pdfEmpty.style.display = 'none'
     pdfEmbed.hidden = false
 
-    const pdfUrl = product.pdfPath
-    pdfEmbed.src = pdfUrl + '#view=FitH&toolbar=0'
+    const url = pdfUrl(product)
+    pdfEmbed.src = url + '#view=FitH&toolbar=0'
     pdfTitle.textContent = `${product.code} — ${product.manufacturer}`
 
     // Enable toolbar controls
@@ -460,14 +470,14 @@ function loadPDF(product: Product) {
     // Set up download link
     pdfDownloadBtn.onclick = () => {
         const a = document.createElement('a')
-        a.href = pdfUrl
-        a.download = pdfUrl.split('/').pop() || 'datasheet.pdf'
+        a.href = url
+        a.download = url.split('/').pop() || 'datasheet.pdf'
         a.click()
     }
 
     // Open in new tab
     pdfOpenBtn.onclick = () => {
-        window.open(pdfUrl, '_blank', 'noopener')
+        window.open(url, '_blank', 'noopener')
     }
 
     // Fallback if embed fails (server doesn't serve PDFs at symlink target)
@@ -476,7 +486,7 @@ function loadPDF(product: Product) {
         if (pdfEmbed.dataset.errored) return
         pdfEmbed.dataset.errored = '1'
         console.warn('PDF embed failed to load, trying fetch + object URL fallback')
-        fetch(pdfUrl)
+        fetch(url)
             .then(r => {
                 if (!r.ok) throw new Error(`HTTP ${r.status}`)
                 return r.blob()
@@ -491,7 +501,7 @@ function loadPDF(product: Product) {
                 const h2 = pdfEmpty.querySelector('h2')!
                 h2.textContent = 'Could not load datasheet'
                 const p = pdfEmpty.querySelector('p')!
-                p.innerHTML = `Try <a href="${esc(pdfUrl)}" target="_blank" rel="noopener" style="color:var(--accent)">opening the PDF directly</a>.`
+                p.innerHTML = `Try <a href="${esc(url)}" target="_blank" rel="noopener" style="color:var(--accent)">opening the PDF directly</a>.`
             })
     }
 }

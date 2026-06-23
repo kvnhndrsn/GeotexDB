@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>North American Geotextile Industry — Timeline &amp; Acquisitions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&display=swap" rel="stylesheet">
+<style>
+/* ───────── Reset & Variables ───────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg: #0f1113;
+  --surface: #191c20;
+  --surface2: #22262b;
+  --border: #2f343a;
+  --text: #e8eaed;
+  --text-dim: #8b9098;
+  --accent: #c8a96e;
+  --accent2: #84a98c;
+  --blue: #6b9bc4;
+  --red: #c46b6b;
+  --purple: #9b7bb8;
+  --green: #7ab87a;
+  --orange: #c49a6b;
+  --pink: #c46b9b;
+  --teal: #6bc4b8;
+  --line-color: #2f343a;
+  --card-w: 520px;
+  --gap: 60px;
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ───────── Header ───────── */
+.hero {
+  text-align: center;
+  padding: 80px 24px 60px;
+  max-width: 900px;
+  width: 100%;
+}
+.hero h1 {
+  font-weight: 800;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+.hero h1 span { color: var(--accent); }
+.hero p {
+  font-family: 'Newsreader', serif;
+  font-size: 1.1rem;
+  color: var(--text-dim);
+  margin-top: 16px;
+  line-height: 1.5;
+  max-width: 600px;
+  margin-inline: auto;
+}
+.hero .sub {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--text-dim);
+}
+
+/* ───────── Timeline ───────── */
+.timeline-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 1300px;
+  padding: 20px 24px 80px;
+}
+
+/* center line */
+.timeline-wrap::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, transparent, var(--line-color) 4%, var(--line-color) 96%, transparent);
+  transform: translateX(-50%);
+}
+
+/* ───────── Era marker ───────── */
+.era {
+  display: flex;
+  justify-content: center;
+  margin: 80px 0 40px;
+  position: relative;
+  z-index: 2;
+}
+.era:first-child { margin-top: 10px; }
+.era-inner {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  padding: 8px 32px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--text-dim);
+}
+
+/* ───── Timeline entry ───── */
+.entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--gap);
+  position: relative;
+  z-index: 1;
+}
+.entry.right { flex-direction: row-reverse; }
+
+.entry .card {
+  width: var(--card-w);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 28px 32px;
+  position: relative;
+  transition: border-color .2s;
+}
+.entry .card:hover { border-color: var(--accent); }
+
+/* dot on line */
+.entry .dot {
+  position: absolute;
+  left: 50%;
+  top: 32px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 3px solid var(--bg);
+  transform: translateX(-50%);
+  z-index: 3;
+  box-shadow: 0 0 0 2px var(--accent);
+}
+
+/* card arrow */
+.entry.left .card::after {
+  content: '';
+  position: absolute;
+  right: -10px;
+  top: 30px;
+  width: 0; height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid var(--surface);
+}
+.entry.right .card::after {
+  content: '';
+  position: absolute;
+  left: -10px;
+  top: 30px;
+  width: 0; height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid var(--surface);
+}
+
+/* spacer (pushes card from center) */
+.entry .spacer {
+  flex: 1;
+  min-width: calc(50% - var(--card-w)/2);
+}
+
+/* ───── Card content ───── */
+.company-year {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  padding: 3px 12px;
+  border-radius: 6px;
+  background: var(--surface2);
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+.company-name {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 6px;
+}
+.company-sub { font-size: 0.9rem; color: var(--text-dim); margin-bottom: 12px; }
+.company-desc {
+  font-family: 'Newsreader', serif;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--text);
+  opacity: 0.85;
+}
+
+/* Badge */
+.badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 2px 10px;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+.badge-pioneer { background: #2a1f1f; color: var(--red); border: 1px solid #4a2f2f; }
+.badge-era1   { background: #1f2a1f; color: var(--green); border: 1px solid #2f4a2f; }
+.badge-era2   { background: #1f222a; color: var(--blue); border: 1px solid #2f3f4a; }
+.badge-era3   { background: #2a241f; color: var(--orange); border: 1px solid #4a3f2f; }
+.badge-era4   { background: #241f2a; color: var(--purple); border: 1px solid #3f2f4a; }
+
+/* ───── Acquisitions (inline sub-list) ───── */
+.acq-list { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border); }
+.acq-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  padding: 4px 0;
+}
+.acq-item .arrow {
+  color: var(--accent);
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+.acq-item .acq-date {
+  font-weight: 600;
+  color: var(--accent);
+  font-size: 0.75rem;
+  white-space: nowrap;
+}
+
+/* ───── Merger flow arrow that crosses line ───── */
+.merger-arrow {
+  position: relative;
+  height: 40px;
+  margin: -20px 0 -20px;
+  z-index: 0;
+}
+.merger-arrow svg {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 40px;
+}
+
+/* ───── Footer ───── */
+.footer {
+  text-align: center;
+  padding: 40px 24px 60px;
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  border-top: 1px solid var(--border);
+  max-width: 600px;
+  margin: 0 auto;
+  width: 100%;
+}
+.footer a { color: var(--accent); text-decoration: none; }
+
+/* ───── Responsive ───── */
+@media (max-width: 900px) {
+  :root { --card-w: 400px; }
+}
+@media (max-width: 700px) {
+  .timeline-wrap::before { left: 20px; }
+  .entry, .entry.right { flex-direction: column; align-items: flex-start; padding-left: 50px; }
+  .entry .spacer { display: none; }
+  .entry .card { width: 100%; }
+  .entry .dot { left: 20px; top: 32px; }
+  .entry.left .card::after, .entry.right .card::after { display: none; }
+}
+
+/* Print styles */
+@media print {
+  body { background: #fff; color: #111; }
+  :root { --bg: #fff; --surface: #f5f5f5; --surface2: #eee; --border: #ccc; --text: #111; --text-dim: #555; --line-color: #aaa; }
+  .card { break-inside: avoid; page-break-inside: avoid; }
+  .hero { padding: 40px 24px 30px; }
+  @page { margin: 1.2cm 0.8cm; size: A4 portrait; }
+}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>Geotextile Industry<br><span>Evolution &amp; Acquisitions</span></h1>
+  <p>Major geotextile manufacturers serving the North American market — their origins, growth, and the consolidation that shaped today's industry landscape.</p>
+  <div class="sub">Compiled from geotexdb project data &bull; June 2026</div>
+</div>
+
+<div class="timeline-wrap">
+
+  <!-- ═══════ ERA: FOUNDATIONS ═══════ -->
+  <div class="era"><div class="era-inner">Pre-Industry Foundations</div></div>
+
+  <!-- Huesker -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">1861 &mdash; Gescher, Germany</div>
+      <div class="company-name">Huesker</div>
+      <div class="company-sub">H. &amp; J. Huesker &amp; Co.</div>
+      <div class="company-desc">Founded as a textile manufacturer during Germany's industrial expansion. In 1958 pivoted to synthetic textiles, producing tarpaulin filter fabrics and sandbags — the first geotextile-related products. Established US subsidiary in 1991.</div>
+      <span class="badge badge-pioneer">Textile roots</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--red);box-shadow:0 0 0 2px var(--red)"></div>
+  </div>
+
+  <!-- Maccaferri -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1879 &mdash; Bologna, Italy</div>
+      <div class="company-name">Maccaferri</div>
+      <div class="company-sub">Officine Maccaferri S.p.A.</div>
+      <div class="company-desc">Blacksmith shop that reinvented the ancient gabion using wire mesh. Expanded into Canada (1970s) and USA (Williamsport, MD). Today a global leader in hydraulic works, rockfall protection, and geosynthetics with &euro;670M revenue.</div>
+      <span class="badge badge-pioneer">Gabion pioneer</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2006</span><span class="arrow">&rarr;</span> Linear Composites (UK)</div>
+        <div class="acq-item"><span class="acq-date">2006</span><span class="arrow">&rarr;</span> BMD Texteis (Brazil)</div>
+        <div class="acq-item"><span class="acq-date">2025</span><span class="arrow">&rarr;</span> <strong>Synteen Technical Fabrics</strong> (USA)</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--red);box-shadow:0 0 0 2px var(--red)"></div>
+  </div>
+
+  <!-- Belton -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">1916 &mdash; Belton, South Carolina</div>
+      <div class="company-name">Belton Industries</div>
+      <div class="company-sub">Woven geotextile manufacturer</div>
+      <div class="company-desc">Started as a cotton packaging manufacturer. Entered woven synthetic fabrics in 1979, shifting focus to geotextiles in the 1980s. Beltech&reg; brand woven geotextiles are NTPEP approved for DOT projects across North America.</div>
+      <span class="badge badge-pioneer">Woven specialist</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--red);box-shadow:0 0 0 2px var(--red)"></div>
+  </div>
+
+  <!-- AMCOL/CETCO -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1924 &mdash; Deadwood, South Dakota</div>
+      <div class="company-name">AMCOL / CETCO</div>
+      <div class="company-sub">Colloid Environmental Technologies Co.</div>
+      <div class="company-desc">Began as Bentonite Mining &amp; Manufacturing in 1924. CETCO formed in 1991 as subsidiary for environmental products. Acquired Claymax in 1995 becoming a leader in geosynthetic clay liners (GCLs). Now part of Minerals Technologies Inc.</div>
+      <span class="badge badge-pioneer">Bentonite/GCL pioneer</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">1995</span><span class="arrow">&rarr;</span> Claymax Corp (GCL technology)</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--red);box-shadow:0 0 0 2px var(--red)"></div>
+  </div>
+
+  <!-- Lumite (WWII, Thrace) -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">~1940s &mdash; United States</div>
+      <div class="company-name">Lumite Inc.</div>
+      <div class="company-sub">Originally a Johnson &amp; Johnson business unit</div>
+      <div class="company-desc">Founded during WWII as part of the war effort. Became a specialist in monofilament engineered fabrics for filtration, horticulture, and erosion control. Thrace Group purchased 50% in 2006, gaining entry into the US geotextile market.</div>
+      <span class="badge badge-pioneer">WWII origins</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--red);box-shadow:0 0 0 2px var(--red)"></div>
+  </div>
+
+  <!-- TenCate -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1704 &mdash; Netherlands</div>
+      <div class="company-name">TenCate Geosynthetics</div>
+      <div class="company-sub">Royal Ten Cate / Koninklijke Ten Cate</div>
+      <div class="company-desc">Dutch textile company with roots in the 18th century. Built a global geosynthetics business spanning nonwovens, wovens, geogrids, and geotextile tubes. 9 production locations worldwide.</div>
+      <span class="badge badge-pioneer">Royal heritage</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2021</span><span class="arrow">&rarr;</span> <strong>Acquired by Solmax</strong></div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--red);box-shadow:0 0 0 2px var(--red)"></div>
+  </div>
+
+  <!-- ═══════ ERA: BIRTH OF GEOSYNTHETICS ═══════ -->
+  <div class="era"><div class="era-inner">1958&ndash;1980 &mdash; Birth of Geosynthetics</div></div>
+
+  <!-- Carthage Mills -->
+  <div class="entry left" style="margin-bottom:0">
+    <div class="card" style="border-color:var(--accent);border-width:2px">
+      <div class="company-year">1958 &mdash; Cincinnati, Ohio</div>
+      <div class="company-name" style="color:var(--accent)">Carthage Mills</div>
+      <div class="company-sub">America's FIRST geosynthetics company</div>
+      <div class="company-desc">Pioneered the first woven synthetic filter cloth used in shoreline protection — replacing costly graded granular filters. Worked with the US Army Corps of Engineers to develop the first Filter Fabric Handbook (1960s). USACE issued the first comprehensive filter fabric specification in 1972, based on Carthage's innovations. Over 3,500 projects by 1976.</div>
+      <span class="badge badge-era1">&#9733; Industry founder</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--accent);width:22px;height:22px;top:30px;box-shadow:0 0 0 3px var(--accent)"></div>
+  </div>
+
+  <!-- Gundle/GSE -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1972 &mdash; Houston, Texas</div>
+      <div class="company-name">GSE Environmental</div>
+      <div class="company-sub">Gundle Lining Systems / Schlegel Lining Technology</div>
+      <div class="company-desc">Pioneered the first HDPE geomembrane in 1972. Gundle and Schlegel merged to form Gundle Environmental Systems (GSE), going public on NYSE in 1986. Became a global leader in containment systems.</div>
+      <span class="badge badge-era1">HDPE pioneer</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2017</span><span class="arrow">&rarr;</span> <strong>Acquired by Solmax</strong></div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--green);box-shadow:0 0 0 2px var(--green)"></div>
+  </div>
+
+  <!-- Naue / Terrafix -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">1952 / 1984 &mdash; Espelkamp, Germany</div>
+      <div class="company-name">Naue</div>
+      <div class="company-sub">Naue GmbH &amp; Co. KG</div>
+      <div class="company-desc">Started in 1952 as car seat cushion manufacturer. The Terrafix&reg; nonwoven was first used in hydraulic engineering in 1967. Naue Fasertechnik founded 1984. Invented Bentofix&reg; GCL in 1987. Established NAUE America, Inc. in 2008.</div>
+      <span class="badge badge-era1">Geosynthetics innovator</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--green);box-shadow:0 0 0 2px var(--green)"></div>
+  </div>
+
+  <!-- Amoco / BP -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1970s &mdash; United States</div>
+      <div class="company-name">Amoco Fabrics &amp; Fibers</div>
+      <div class="company-sub">(became BP Amoco, then Propex)</div>
+      <div class="company-desc">Major producer of woven and nonwoven geotextiles. The Amoco geotextile brand was one of the most specified in North America throughout the 1980s and 1990s. Sold to investors forming Propex in 2004.</div>
+      <span class="badge badge-era1">Legacy brand</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2004</span><span class="arrow">&rarr;</span> <strong>Sold to form Propex</strong></div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--green);box-shadow:0 0 0 2px var(--green)"></div>
+  </div>
+
+  <!-- Netlon / Tensar -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">1978 / 1983 &mdash; Blackburn, UK / Alpharetta, GA</div>
+      <div class="company-name">Tensar</div>
+      <div class="company-sub">Netlon &rarr; Tensar International &rarr; Tensar Corporation</div>
+      <div class="company-desc">Dr. Brian Mercer invented the Tensar&reg; polymer geogrid process in 1978 — a revolutionary method of stretching extruded polymer grids to align molecular chains. Tensar Corporation formed in 1983 as a joint venture. TriAx&reg; hexagonal geogrid launched 2007.</div>
+      <span class="badge badge-era1">&#9733; Geogrid inventor</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2006</span><span class="arrow">&rarr;</span> Tensar Corp acquires Tensar International</div>
+        <div class="acq-item"><span class="acq-date">2014</span><span class="arrow">&rarr;</span> Acquired by Castle Harlan ($400M)</div>
+        <div class="acq-item"><span class="acq-date">2022</span><span class="arrow">&rarr;</span> <strong>Acquired by Commercial Metals Co (CMC)</strong></div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--accent);width:22px;height:22px;top:30px;box-shadow:0 0 0 3px var(--accent)"></div>
+  </div>
+
+  <!-- Presto Geosystems -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1982 &mdash; Appleton, Wisconsin</div>
+      <div class="company-name">Presto Geosystems</div>
+      <div class="company-sub">Division of Presto Products Co.</div>
+      <div class="company-desc">Presto co-invented geocell cellular confinement technology with the US Army Corps of Engineers in the late 1970s. Introduced GEOWEB&reg; system to civil engineering market in early 1980s. Products used on every continent.</div>
+      <span class="badge badge-era1">&#9733; Geocell inventor</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--green);box-shadow:0 0 0 2px var(--green)"></div>
+  </div>
+
+  <!-- Typar / Fiberweb -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">~1970s &mdash; Old Hickory, Tennessee</div>
+      <div class="company-name">Typar Geosynthetics</div>
+      <div class="company-sub">Fiberweb / Polymer Group Inc. / Magnera</div>
+      <div class="company-desc">Typar&reg; nonwoven geotextiles have been manufactured for over 40 years in Tennessee. Originally part of BBA Fiberweb, then spun off as Fiberweb (2006). Acquired by Polymer Group Inc. (PGI). Now part of Magnera Corporation.</div>
+      <span class="badge badge-era1">Established nonwoven brand</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--green);box-shadow:0 0 0 2px var(--green)"></div>
+  </div>
+
+  <!-- ═══════ ERA: EXPANSION ═══════ -->
+  <div class="era"><div class="era-inner">1981&ndash;2000 &mdash; Industry Expansion</div></div>
+
+  <!-- Solmax -->
+  <div class="entry left">
+    <div class="card" style="border-color:var(--blue);border-width:2px">
+      <div class="company-year">1981 &mdash; Varennes, Quebec</div>
+      <div class="company-name" style="color:var(--blue)">Solmax</div>
+      <div class="company-sub">Groupe Solmax Inc.</div>
+      <div class="company-desc">Founded by Jacques C&ocirc;t&eacute; as a geosynthetics distributor. Transitioned to manufacturing, then embarked on an aggressive acquisition strategy that made it the world's largest geosynthetics manufacturer. Now employs 2,000+ people globally.</div>
+      <span class="badge badge-era2">&#9733; World's largest geosynthetics manufacturer</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">~2010s</span><span class="arrow">&rarr;</span> Brawler Inc.</div>
+        <div class="acq-item"><span class="acq-date">2017</span><span class="arrow">&rarr;</span> GSE Environmental</div>
+        <div class="acq-item"><span class="acq-date">2021</span><span class="arrow">&rarr;</span> TenCate Geosynthetics</div>
+        <div class="acq-item"><span class="acq-date">2021</span><span class="arrow">&rarr;</span> <strong>Propex</strong></div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);width:22px;height:22px;top:30px;box-shadow:0 0 0 3px var(--blue)"></div>
+  </div>
+
+  <!-- Layfield -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1978 &mdash; Edmonton, Alberta</div>
+      <div class="company-name">Layfield Group</div>
+      <div class="company-sub">Layfield Geosynthetics</div>
+      <div class="company-desc">Purchased by the Rose family in 1978 from founder Eric Layfield. Acquired Calgary Plastics (1983), expanded to US with Seattle branch (1992), Geogard Linings (1997), CW Neal Corp in San Diego (2005). Leading geomembrane manufacturer/fabricator/installer in NA.</div>
+      <span class="badge badge-era2">Geomembrane leader</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">1983</span><span class="arrow">&rarr;</span> Calgary Plastics</div>
+        <div class="acq-item"><span class="acq-date">1997</span><span class="arrow">&rarr;</span> Geogard Linings (Toronto)</div>
+        <div class="acq-item"><span class="acq-date">2005</span><span class="arrow">&rarr;</span> CW Neal Corp (San Diego)</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);box-shadow:0 0 0 2px var(--blue)"></div>
+  </div>
+
+  <!-- Strata Systems -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">1992 &mdash; Cumming, Georgia</div>
+      <div class="company-name">Strata Systems</div>
+      <div class="company-sub">Division of Glen Raven, Inc.</div>
+      <div class="company-desc">Co-founded by Chip Fuller and Rich Enger. Manufactures geosynthetic soil reinforcement solutions (StrataGrid&reg; geogrids, StrataWeb&reg; geocells). Serves 50+ countries. Part of Glen Raven Inc., a 130+ year old textile firm.</div>
+      <span class="badge badge-era2">Soil reinforcement specialist</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);box-shadow:0 0 0 2px var(--blue)"></div>
+  </div>
+
+  <!-- Winfab -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1994 &mdash; Willacoochee, Georgia</div>
+      <div class="company-name">Winfab</div>
+      <div class="company-sub">Willacoochee Industrial Fabrics, Inc.</div>
+      <div class="company-desc">American-owned manufacturer of high-performance nonwoven geotextiles with two production facilities in Georgia. Known for complete geosynthetic and erosion control product line, serving state &amp; federal DOT projects. NTPEP compliant.</div>
+      <span class="badge badge-era2">US nonwoven manufacturer</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);box-shadow:0 0 0 2px var(--blue)"></div>
+  </div>
+
+  <!-- SKAPS -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">1995/1996 &mdash; United States</div>
+      <div class="company-name">SKAPS Industries</div>
+      <div class="company-sub">Founded by Perry Vyas</div>
+      <div class="company-desc">Conceptualized 1995, established 1996 in the US by Perry Vyas. Manufactures woven and nonwoven geotextiles, geocomposites, geonets, geomembranes. Market presence in 60+ countries. Expanded to India in 2005. Acquired Matrix Composites (2018).</div>
+      <span class="badge badge-era2">Global geosynthetics supplier</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2018</span><span class="arrow">&rarr;</span> Matrix Composites</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);box-shadow:0 0 0 2px var(--blue)"></div>
+  </div>
+
+  <!-- ACE Geosynthetics -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">1996 &mdash; Taichung, Taiwan</div>
+      <div class="company-name">ACE Geosynthetics</div>
+      <div class="company-sub">ACE Geosynthetics Enterprise Co.</div>
+      <div class="company-desc">Built Taiwan's first automatic geogrid/geotextile production line. Exports to 70+ countries. Specializes in geogrids, geotextiles, and erosion control systems. ISO 9001, CE, BBA, and NTPEP certified.</div>
+      <span class="badge badge-era2">Taiwan-based global supplier</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);box-shadow:0 0 0 2px var(--blue)"></div>
+  </div>
+
+  <!-- Soleno Textile -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">1977 / 1999 &mdash; Saint-Jean-sur-Richelieu, Quebec</div>
+      <div class="company-name">Soleno</div>
+      <div class="company-sub">Soleno Inc. / Soleno Textile</div>
+      <div class="company-desc">Founded in 1977 by Germain and Roger Lazure as an HDPE pipe manufacturer. Soleno Textile division (~1999) manufactures nonwoven geotextiles in Laval, Quebec. 13 industrial sites across eastern Canada and the US. Opened first US plant in Saratoga Springs, NY (2024).</div>
+      <span class="badge badge-era2">Quebec-based manufacturer</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);box-shadow:0 0 0 2px var(--blue)"></div>
+  </div>
+
+  <!-- US Fabrics -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">2000 &mdash; Cincinnati, Ohio</div>
+      <div class="company-name">US Fabrics</div>
+      <div class="company-sub">US Fabrics Inc.</div>
+      <div class="company-desc">Cincinnati-based national geosynthetics products company. Specializes in geotextiles, geogrids, and geomembranes. Offers one of the largest selections of AASHTO/NTPEP approved products in the industry.</div>
+      <span class="badge badge-era2">National distributor/manufacturer</span>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--blue);box-shadow:0 0 0 2px var(--blue)"></div>
+  </div>
+
+  <!-- ═══════ ERA: CONSOLIDATION ═══════ -->
+  <div class="era"><div class="era-inner">2001&ndash;Present &mdash; Consolidation Era</div></div>
+
+  <!-- Propex -->
+  <div class="entry left" style="margin-bottom:0">
+    <div class="card" style="border-color:var(--orange);border-width:2px">
+      <div class="company-year">2004 &mdash; Chattanooga, Tennessee</div>
+      <div class="company-name" style="color:var(--orange)">Propex</div>
+      <div class="company-sub">Propex Fabrics &rarr; Propex Inc.</div>
+      <div class="company-desc">Formed when Sterling Group, Genstar Capital, and Laminar Direct Capital purchased BP Amoco's Fabric &amp; Fibers unit. Acquired SI Corporation in 2006, becoming a leading producer of polypropylene-based geosynthetics. Filed Chapter 11 in 2008, acquired by Wayzata Investment Partners.</div>
+      <span class="badge badge-era3">Major consolidation play</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2006</span><span class="arrow">&rarr;</span> SI Corp (Concrete Systems + Geosolutions)</div>
+        <div class="acq-item"><span class="acq-date">2021</span><span class="arrow">&rarr;</span> <strong>Acquired by Solmax</strong></div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--orange);width:20px;height:20px;top:31px;box-shadow:0 0 0 3px var(--orange)"></div>
+  </div>
+
+  <!-- Hanes Geo -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">2005 &mdash; Winston Salem, North Carolina</div>
+      <div class="company-name">Hanes Geo Components</div>
+      <div class="company-sub">Division of Hanes Companies / Leggett &amp; Platt</div>
+      <div class="company-desc">Created by Hanes Companies (a Leggett &amp; Platt division) in 2005 after acquiring Webtec. Holds TerraTex&reg;, TerraGrid&reg;, TerraCell&reg;, TerraDrain&reg; brands. 48 distribution centers across North America.</div>
+      <span class="badge badge-era3">Distribution powerhouse</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2005</span><span class="arrow">&rarr;</span> Webtec (NC) - acquired TerraTex&reg; brand</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--orange);box-shadow:0 0 0 2px var(--orange)"></div>
+  </div>
+
+  <!-- Thrace-LINQ -->
+  <div class="entry left">
+    <div class="card">
+      <div class="company-year">2007 &mdash; Summerville, South Carolina</div>
+      <div class="company-name">Thrace-LINQ</div>
+      <div class="company-sub">Thrace Group (Athens, Greece)</div>
+      <div class="company-desc">Formed when Thrace Group (founded 1977 in Greece) acquired the agrotextile and geotextile divisions of Linq. Together with sister company Lumite (WWII-era, 50% acquired 2006), Thrace has built a significant US manufacturing presence. In 2020, Thrace LINQ Inc. ceased operations but Lumite continues.</div>
+      <span class="badge badge-era3">European-owned NA production</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2006</span><span class="arrow">&rarr;</span> 50% of Lumite Inc.</div>
+        <div class="acq-item"><span class="acq-date">2007</span><span class="arrow">&rarr;</span> Linq divisions (formed Thrace LINQ)</div>
+        <div class="acq-item"><span class="acq-date">2008</span><span class="arrow">&rarr;</span> Alto, GA plant from Propex</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--orange);box-shadow:0 0 0 2px var(--orange)"></div>
+  </div>
+
+  <!-- Titan Environmental -->
+  <div class="entry right">
+    <div class="card">
+      <div class="company-year">2006 &mdash; Grande Pointe, Manitoba</div>
+      <div class="company-name">Titan Environmental</div>
+      <div class="company-sub">Titan Environmental Containment Ltd.</div>
+      <div class="company-desc">Started in a garage by four men and a truck. Now operates 7 locations across Canada and one in the US. North America's fastest growing geosynthetics supplier, fabricator, and installer with 190 employees. Focus on mining, civil infrastructure, and environmental containment.</div>
+      <span class="badge badge-era3">Fastest-growing NA supplier</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2023</span><span class="arrow">&rarr;</span> Hewitt Geosynthetics (Ontario)</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--orange);box-shadow:0 0 0 2px var(--orange)"></div>
+  </div>
+
+  <!-- Maccaferri + Synteen -->
+  <div class="entry left">
+    <div class="card" style="border-color:var(--teal);border-width:2px">
+      <div class="company-year">2025 &mdash; Lancaster, South Carolina</div>
+      <div class="company-name" style="color:var(--teal)">Synteen Technical Fabrics</div>
+      <div class="company-sub">Acquired by Maccaferri (Feb 2025)</div>
+      <div class="company-desc">Founded in 1998, Synteen manufactures high-strength polyester geogrids and geosynthetics for infrastructure. Acquired by Maccaferri in 2025 to strengthen NA presence. New multi-technology facility in Fort Lawn, SC (2026) triples capacity, adds 75 jobs.</div>
+      <span class="badge badge-era4">Recent acquisition</span>
+      <div class="acq-list">
+        <div class="acq-item"><span class="acq-date">2025</span><span class="arrow">&rarr;</span> <strong>Acquired by Maccaferri</strong></div>
+        <div class="acq-item"><span class="acq-date">2026</span><span class="arrow">&rarr;</span> New Fort Lawn, SC facility (133,690 sq ft)</div>
+      </div>
+    </div>
+    <div class="spacer"></div>
+    <div class="dot" style="background:var(--teal);box-shadow:0 0 0 2px var(--teal)"></div>
+  </div>
+
+  <!-- Merger flow: Propex → Solmax -->
+  <div class="merger-arrow">
+    <svg viewBox="0 0 120 40" fill="none">
+      <path d="M20 20 L100 20" stroke="var(--orange)" stroke-width="2" stroke-dasharray="4 4" opacity="0.6"/>
+      <path d="M95 15 L100 20 L95 25" stroke="var(--orange)" stroke-width="2" opacity="0.6"/>
+      <text x="60" y="14" text-anchor="middle" fill="var(--orange)" font-size="9" font-family="Outfit,sans-serif" opacity="0.7">SOLMAX</text>
+    </svg>
+  </div>
+
+  <!-- Merger flow: GSE → Solmax -->
+  <div class="merger-arrow">
+    <svg viewBox="0 0 120 40" fill="none">
+      <path d="M20 20 L100 20" stroke="var(--green)" stroke-width="2" stroke-dasharray="4 4" opacity="0.6"/>
+      <path d="M95 15 L100 20 L95 25" stroke="var(--green)" stroke-width="2" opacity="0.6"/>
+      <text x="60" y="14" text-anchor="middle" fill="var(--green)" font-size="9" font-family="Outfit,sans-serif" opacity="0.7">SOLMAX</text>
+    </svg>
+  </div>
+
+  <!-- Merger flow: TenCate → Solmax -->
+  <div class="merger-arrow">
+    <svg viewBox="0 0 120 40" fill="none">
+      <path d="M20 20 L100 20" stroke="var(--pink)" stroke-width="2" stroke-dasharray="4 4" opacity="0.6"/>
+      <path d="M95 15 L100 20 L95 25" stroke="var(--pink)" stroke-width="2" opacity="0.6"/>
+      <text x="60" y="14" text-anchor="middle" fill="var(--pink)" font-size="9" font-family="Outfit,sans-serif" opacity="0.7">SOLMAX</text>
+    </svg>
+  </div>
+
+</div> <!-- /timeline-wrap -->
+
+<!-- ───── Summary: Current Landscape ───── -->
+<div style="max-width:900px;margin:0 auto;padding:0 24px 60px;width:100%">
+  <div class="era"><div class="era-inner">Current Landscape</div></div>
+  <div style="background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:36px 40px;">
+
+    <h2 style="font-size:1.5rem;font-weight:700;margin-bottom:20px;">The Great Consolidation</h2>
+    <p style="font-family:'Newsreader',serif;font-size:1rem;line-height:1.7;opacity:0.85;margin-bottom:20px;">
+      The North American geotextile industry has undergone dramatic consolidation. <strong style="color:var(--blue)">Solmax</strong> — founded as a small Quebec distributor in 1981 — now owns GSE, TenCate Geosynthetics, and Propex, making it the undisputed global leader. <strong style="color:var(--accent)">Tensar</strong>, the inventor of geogrids, was acquired by Commercial Metals Company. <strong style="color:var(--teal)">Maccaferri</strong> acquired Synteen in 2025, doubling down on the North American market.
+    </p>
+    <p style="font-family:'Newsreader',serif;font-size:1rem;line-height:1.7;opacity:0.85;">
+      Meanwhile, independent manufacturers and distributors — Carthage Mills, Layfield, Hanes Geo, Titan Environmental, Winfab, SKAPS, US Fabrics, Soleno, Strata Systems, Belton, Huesker, Naue, ACE, Thrace/Lumite, Typar — continue to serve the market with specialized products and regional expertise, ensuring healthy competition and innovation.
+    </p>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin-top:28px;padding-top:24px;border-top:1px solid var(--border)">
+      <div><div style="font-size:0.75rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-dim)">Companies tracked</div><div style="font-size:1.6rem;font-weight:700;color:var(--accent)">25</div></div>
+      <div><div style="font-size:0.75rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-dim)">Major acquisitions</div><div style="font-size:1.6rem;font-weight:700;color:var(--blue)">15+</div></div>
+      <div><div style="font-size:0.75rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-dim)">Industry span</div><div style="font-size:1.6rem;font-weight:700;color:var(--green)">1861–2026</div></div>
+      <div><div style="font-size:0.75rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-dim)">Largest acquirer</div><div style="font-size:1.6rem;font-weight:700;color:var(--blue)">Solmax</div></div>
+    </div>
+
+  </div>
+</div>
+
+<div class="footer">
+  <p>Data compiled from public sources and the <a href="https://github.com/kvnhndrsn/geotexdb">geotexdb</a> project.</p>
+  <p style="margin-top:4px;">A visual reference of the geotextile industry's evolution in North America.</p>
+</div>
+
+</body>
+</html>
