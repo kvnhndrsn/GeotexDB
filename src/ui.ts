@@ -89,6 +89,7 @@ const mfrLogoMap: Record<string, string> = {
 }
 
 const typeGroups: { label: string; types: string[] }[] = [
+    { label: 'Reference', types: ['Reference'] },
     { label: 'Non-woven', types: ['Non-woven', 'Environmental', 'Civil'] },
     { label: 'Woven', types: ['Woven', 'High Strength', 'High Tensile Modulus'] },
     { label: 'Geogrid', types: ['Geogrid', 'Biaxial Geogrid', 'Uniaxial Geogrid', 'Triax'] },

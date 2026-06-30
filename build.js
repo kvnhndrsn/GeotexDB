@@ -125,15 +125,9 @@ for (const dir of [dist, __dirname]) {
     copyTo('src/style.css', dir);
     copyTo('fonts', dir);
     copyTo('logos', dir);
-    copyTo('data/products.json', dir);
 }
 
-// Prepend products data and a run-verification marker into bundle.js
-const productsData = fs.readFileSync(path.join(__dirname, 'data/products.json'), 'utf8');
 const bundlePath = path.join(dist, 'bundle.js');
-const bundle = fs.readFileSync(bundlePath, 'utf8');
-const dataPrefix = `window.__PRODUCTS_DATA__=${productsData};(console.log('geotexdb: startup'),document.documentElement.dataset.js='1');`;
-fs.writeFileSync(bundlePath, dataPrefix + bundle);
 
 // Compute hash of final bundle for cache busting
 const finalBundle = fs.readFileSync(bundlePath, 'utf8');

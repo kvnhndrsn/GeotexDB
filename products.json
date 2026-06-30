@@ -1667,6 +1667,150 @@
       "pdfPath": "pdfs/us-fabrics/840.pdf",
       "equivalents": [],
       "title": ""
+    },
+    {
+      "code": "ADS_Cross_Reference",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/ADS_Cross_Reference.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "BW_Nonwoven_Comparison",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/BW_Nonwoven_Comparison.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "BW_Woven_Comparison",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/BW_Woven_Comparison.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Brand_Comparison_2019",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Brand_Comparison_2019.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "GE_Products_Comparison",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/GE_Products_Comparison.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "GeoGrid_Comparison_Chart",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/GeoGrid_Comparison_Chart.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Geogrid_Competitor_Reference",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Geogrid_Competitor_Reference.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Geogrid_Cross_Reference",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Geogrid_Cross_Reference.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Geotextile_Equivalent_Chart_O",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Geotextile_Equivalent_Chart_O.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "McVeigh_Parker_Comparison_2022",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/McVeigh_Parker_Comparison_2022.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Mountainland_Cross_Reference",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Mountainland_Cross_Reference.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Nonwoven_CR_v2.2",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Nonwoven_CR_v2.2.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Nonwoven_Cross_Reference_Card",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Nonwoven_Cross_Reference_Card.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "SWU_Fabric_Cross_Reference",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/SWU_Fabric_Cross_Reference.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "TalonFabrics_Woven_Comparison",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/TalonFabrics_Woven_Comparison.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Terrain_Civil_ERC_CR",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Terrain_Civil_ERC_CR.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "Terrain_Civil_Geotextile_CR",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/Terrain_Civil_Geotextile_CR.pdf",
+      "type": "Reference"
+    },
+    {
+      "code": "WIF_Cross_Reference",
+      "manufacturer": "Reference",
+      "category": "",
+      "description": "",
+      "pdfPath": "pdfs/reference/WIF_Cross_Reference.pdf",
+      "type": "Reference"
     }
   ]
 }

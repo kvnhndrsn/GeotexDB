@@ -838,6 +838,7 @@ body.dragging * {
 .sidebar-item-type.high-performance { background: var(--tag-hp); color: #3730a3; }
 .sidebar-item-type.high-tensile-modulus { background: var(--tag-htm); color: #6b21a8; }
 .sidebar-item-type.wicking { background: var(--tag-wicking); color: #065f46; }
+.sidebar-item-type.reference { background: var(--tag-reference, #e0e7ff); color: #3730a3; }
 
 [data-theme="dark"] .sidebar-item-type.non-woven { color: #fbbf24; }
 [data-theme="dark"] .sidebar-item-type.woven { color: #93c5fd; }
@@ -856,6 +857,7 @@ body.dragging * {
 [data-theme="dark"] .sidebar-item-type.high-performance { color: #a5b4fc; }
 [data-theme="dark"] .sidebar-item-type.high-tensile-modulus { color: #e9d5ff; }
 [data-theme="dark"] .sidebar-item-type.wicking { color: #5eead4; }
+.sidebar-item-type.reference { color: #a5b4fc; }
 
 .sidebar-item .pdf-indicator {
     font-size: 0.6rem;
