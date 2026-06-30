@@ -2,7 +2,7 @@ import { loadProducts } from './search'
 import { initUI } from './ui'
 import type { ProductDB } from './search'
 
-const PRODUCTS_URL = 'https://ebcfmvifwkzfblmwgwbu.supabase.co/storage/v1/object/public/products.json'
+const PRODUCTS_URL = 'https://ebcfmvifwkzfblmwgwbu.supabase.co/storage/v1/object/public/pdfs/products.json'
 
 async function main() {
     try {
